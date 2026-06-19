@@ -221,3 +221,6 @@ __marimo__/
 
 # IDE files
 .vscode
+
+# Local databases
+.chroma
